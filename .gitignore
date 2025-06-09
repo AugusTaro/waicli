@@ -20,6 +20,7 @@ go.work
 # Built binaries (project specific)
 wai-cli
 waicli
+wai
 
 # IDE files
 .vscode/
